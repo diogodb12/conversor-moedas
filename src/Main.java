@@ -17,7 +17,7 @@ public class Main {
                     4. Peso Argentino para Real (ARS -> BRL)
                     5. Real para Peso Chileno (BRL -> CLP)
                     6. Peso Chileno para Real (CLP -> BRL)
-                    "sair" para Sair
+                    0. Sair da Aplicação
                     """);
             System.out.print("Digite a opção: ");
             opcao = entrada.nextShort();
