@@ -34,6 +34,8 @@ public class Main {
                 conversorDeMoedas.chamarApi("BRL", "CLP");
             } else if (opcao == 6) {
                 conversorDeMoedas.chamarApi("CLP", "BRL");
+            } else if (opcao == 0) {
+                System.out.println("Finalizando...");
             } else {
                 System.out.println("Opcção inválida, digite novamente");
             }
